@@ -51,7 +51,7 @@ Explore how Microsoft is committed to advancing AI in a way that is driven by et
 <table>
 <tr>
     <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="[https://github.com/pierreroman.png" width="100px;" alt="Pierre Roman"/>
+        <img src="https://github.com/pierreroman.png" width="100px;" alt="Pierre Roman"/>
         <br />
         <sub><b>Pierre Roman
 </b></sub></a><br />

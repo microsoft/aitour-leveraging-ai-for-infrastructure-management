@@ -4,6 +4,9 @@
 
 How can IT Pros leverage AI-enhancements in Microsoft Azure? In this session, you’ll learn how Microsoft Copilot in Azure can optimize your cloud & hybrid infrastructure management, and how VS Code Copilot and other tools can take your scripting to the next level.
 
+![image](https://github.com/user-attachments/assets/8e868ae7-8b8a-419f-a063-1a5a05a7d2b2)
+
+
 ## Learning Outcomes
 ITPros / System Administrator will learn how they can leverage AI features and services in Azure to:
 1. Get info about services in Azure that they may not be familiar with, and have Microsoft copilot in Azure guide them through deployments

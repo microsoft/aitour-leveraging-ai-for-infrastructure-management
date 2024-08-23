@@ -21,7 +21,6 @@ ITPros / System Administrator will learn how they can leverage AI features and s
 - Shell
 
 ## Additional Resources and Continued Learning
-TODO: If you would like to link the user to further learning, please enter that here.
 
 | Resources          | Links                                                                               | Description        |
 |:-------------------|:------------------------------------------------------------------------------------|:-------------------|

@@ -8,7 +8,7 @@ Along with the video of the presentation, this document will link to all the ass
 code.
 
 1. Read presentation in its entirety.
-  1- [The full deck can be found here](https://aka.ms/AAry5ig)
+  2. [The full deck can be found here](https://aka.ms/AAry5ig)
 1. Watch the video demos that are embedded in the presentation
   2. 
 1. Read the demo instructions and do the demo at least once before presenting

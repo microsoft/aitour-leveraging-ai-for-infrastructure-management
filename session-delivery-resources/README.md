@@ -10,8 +10,8 @@ Along with the video of the presentation, this document will link to all the ass
 
 * The PowerPoint session delivery includes tips for speakers and also talking points to tell the audience. You don't need to follow the script exactly. Understand the intention of each slide and put it in your own words.
 * Depending on your background and experience, there may be topics or products in this session that you are unfamiliar with. Take a look at the PowerPoint deck and use the Learn more resources for areas you want to learn more about.
-* The demo recordings include a narration which covers the most important things to be explaining during the demo.
-* You can do this talk without using ALL the demo recordings, but some demos require extensive setup. Like deploying an environment with ARC enabled HCI clusters located on prem. Some demos also require special access to subscription where the previews are enabled. There are no medals for doing live demos.
+* The demo Recordings include a narration which covers the most important things to be explaining during the demo.
+* You can do this talk without using ALL the demo Recordings, but some demos require extensive setup. Like deploying an environment with ARC enabled HCI clusters located on prem. Some demos also require special access to subscription where the previews are enabled. There are no medals for doing live demos.
 
 ### Preparation steps
 
@@ -46,19 +46,19 @@ Along with the video of the presentation, this document will link to all the ass
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | PowerPoint        | [Presentation](HTTPS://AKA.MS/AAry5ig) | Slides |
-| Full Session Recording | [Session Recording](HTTPS://AKA.MS/AAs3sy5) | Complete session recording with voice over including all demos |
-| Demo 1  - recording | [recording](HTTPS://AKA.MS/AAs3sy4) | Demo 1 recording including Talk Track |
-| Demo 2 - recording| [recording](HTTPS://AKA.MS/AAs48e3) | Demo 2 recording including Talk Track |
-| Demo 1 & 2 - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs48e4) | Demo 1 transcript of demo |
-| Demo 3 - recording | [recording](HTTPS://AKA.MS/AAs48e6) | Demo 3 recording including Talk Track |
-| Demo 3 - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs3sy0) | Demo 3 transcript of demo |
-| Demo 4 - recording | [recording](HTTPS://AKA.MS/AAs3sxx) | Demo 4 recording including Talk Track |
-| Demo 4 - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs40lx) | Demo 4 transcript of demo |
-| Demo 5 - recording | [recording](HTTPS://AKA.MS/AAs3sy1) | Demo 5 recording including Talk Track |
-| Demo 5 - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs48e5) | Demo 5 transcript of demo |
-| Demo 6 - recording | [recording](HTTPS://AKA.MS/AAs3sxz) | Demo 6 recording including Talk Track |
-| Demo 6 - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs40m1) | Demo 6 transcript of demo |
-| Demo 7 - recording | [recording](HTTPS://AKA.MS/AAs40lz) | Demo 7 recording including Talk Track |
-| Demo 7 - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs48ea) | Demo 7 transcript of demo |
+| Full Session Recording | [Session Recording](HTTPS://AKA.MS/AAs3sy5) | Complete session Recording with voice over including all demos |
+| Demo 1 - **deploy acr with azure copilot**  - Recording | [Recording](HTTPS://AKA.MS/AAs3sy4) | Demo 1- **deploy acr with azure copilot** Recording including Talk Track |
+| Demo 2 - **deploy to aks with azure copilot** - Recording| [Recording](HTTPS://AKA.MS/AAs48e3) | Demo 2 - **deploy to aks with azure copilot** Recording including Talk Track |
+| Demo 1 & 2 - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs48e4) | Demo 1 & 2 transcript of demo |
+| Demo 3 - **Copilot Access Control** - Recording | [Recording](HTTPS://AKA.MS/AAs48e6) | Demo 3 - **Copilot Access Control** Recording including Talk Track |
+| Demo 3 - **Copilot Access Control** - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs3sy0) | Demo 3 transcript of demo |
+| Demo 4 - **Copilot Check Service Health** - Recording | [Recording](HTTPS://AKA.MS/AAs3sxx) | Demo 4 - **Copilot Check Service Health** Recording including Talk Track |
+| Demo 4 - **Copilot Check Service Health** - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs40lx) | Demo 4 - **Copilot Check Service Health** transcript of demo |
+| Demo 5 - **copilot troubleshoot in notification** - Recording | [Recording](HTTPS://AKA.MS/AAs3sy1) | Demo 5 - **copilot troubleshoot in notification** Recording including Talk Track |
+| Demo 5 - **copilot troubleshoot in notification** - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs48e5) | Demo 5 - **copilot troubleshoot in notification** transcript of demo |
+| Demo 6 - **copilot webapp troubleshooting** - Recording | [Recording](HTTPS://AKA.MS/AAs3sxz) | Demo 6 - **copilot webapp troubleshooting** Recording including Talk Track |
+| Demo 6 - **copilot webapp troubleshooting** - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs40m1) | Demo 6 - **copilot webapp troubleshooting** transcript of demo |
+| Demo 7 - **Hybrid Machine Management** - Recording | [Recording](HTTPS://AKA.MS/AAs40lz) | Demo 7 - **Hybrid Machine Management** Recording including Talk Track |
+| Demo 7 - **Hybrid Machine Management** - Talk-Track | [Transcript](HTTPS://AKA.MS/AAs48ea) | Demo 7 - **Hybrid Machine Management** transcript of demo |
 
 

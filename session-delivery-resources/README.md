@@ -4,20 +4,22 @@ Welcome,
 
 We're glad you are here and look forward to your delivery of this amazing content. As an experienced presenter, we know you know HOW to present so this guide will focus on WHAT you need to present. It will provide you a full run-through of the presentation created by the presentation design team. 
 
-Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo instructions &
-code.
+Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo transcripts.
 
-Tips for this session
+### Tips for this session
+
 * The PowerPoint session delivery includes tips for speakers and also talking points to tell the audience. You don't need to follow the script exactly. Understand the intention of each slide and put it in your own words.
 * Depending on your background and experience, there may be topics or products in this session that you are unfamiliar with. Take a look at the PowerPoint deck and use the Learn more resources for areas you want to learn more about.
 * The demo recordings include a narration which covers the most important things to be explaining during the demo.
 * You can do this talk without using ALL the demo recordings, but some demos require extensive setup. Like deploying an environment with ARC enabled HCI clusters located on prem. Some demos also require special access to subscription where the previews are enabled. There are no medals for doing live demos.
 
+### Preparation steps
+
 1. Read presentation in its entirety.
 1. Watch the video demos that are embedded in the presentation
 1. Read the demo talk tracks and rehears the demo more than once before presenting to figure out your timing and where you will need to pause if needed
-    * All demos have a separate videos with voice over and 'Talk-Tracks' in a Word format.
-4. Ask questions of the content owners.
+    * **All demos have a separate videos with voice over and 'Talk-Tracks' in a Word format**.
+4. Ask questions of the content owners.  _We're here to help._
 
 ## Content Owners
 
